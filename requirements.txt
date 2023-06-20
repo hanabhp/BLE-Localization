@@ -1,0 +1,8 @@
+# External dependencies
+numpy==1.20.3
+scipy==1.6.3
+
+
+signal-processing-toolbox==10.5
+image-processing-toolbox==11.3
+statistics-and-machine-learning-toolbox==12.1
